@@ -32,21 +32,21 @@
     "test": "echo \"TODO\""
   },
   "dependencies": {
-    "@ethereumjs/tx": "^4.1.1",
+    "@ethereumjs/tx": "^5.0.0",
     "@ethereumjs/util": "^8.0.5"
   },
   "devDependencies": {
-    "@metamask/eslint-config": "^11.1.0",
-    "@metamask/eslint-config-jest": "^11.1.0",
+    "@metamask/eslint-config": "^12.1.0",
+    "@metamask/eslint-config-jest": "^12.1.0",
     "@metamask/eslint-config-nodejs": "^11.1.0",
     "@metamask/eslint-config-typescript": "^11.1.0",
-    "@typescript-eslint/eslint-plugin": "^5.55.0",
+    "@typescript-eslint/eslint-plugin": "^6.3.0",
     "@typescript-eslint/parser": "^5.55.0",
     "eslint": "^8.36.0",
     "eslint-config-prettier": "^8.7.0",
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-jest": "^27.2.1",
-    "eslint-plugin-jsdoc": "^40.0.3",
+    "eslint-plugin-jsdoc": "^46.4.6",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^3.0.1",
